@@ -1,0 +1,26 @@
+{
+  "name": "boda",
+  "version": "1.0.0",
+  "description": "Aplicação do boda melhor plataforma para eventos ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gelsondeveloper/boda.git"
+  },
+  "author": "Gelson Gamboa João",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gelsondeveloper/boda/issues"
+  },
+  "homepage": "https://github.com/gelsondeveloper/boda#readme",
+  "dependencies": {
+    "angular": "^1.7.9",
+    "gulp": "^4.0.2"
+  },
+  "devDependencies": {
+    "gulp-install": "^1.1.0"
+  }
+}
